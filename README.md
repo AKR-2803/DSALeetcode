@@ -1,4 +1,4 @@
-# DSALeetcode Sollutions 
+# DSALeetcode Solutions 
 
 This Repo has solutions of Popular DSA questions. 
 You able to contribute to this repository.
