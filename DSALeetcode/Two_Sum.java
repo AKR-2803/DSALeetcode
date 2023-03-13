@@ -1,3 +1,6 @@
+//Leetcode 1. Two Sum
+// https://leetcode.com/problems/two-sum/
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int[] ans=new int[2];
